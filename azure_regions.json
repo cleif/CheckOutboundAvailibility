@@ -15,7 +15,8 @@
     "name": "australiacentral",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": "2018"
+    "yearOpen": "2018",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Australia East",
@@ -33,7 +34,8 @@
     "name": "australiaeast",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2014"
+    "yearOpen": "2014",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Australia Southeast",
@@ -51,7 +53,8 @@
     "name": "australiasoutheast",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": "2014"
+    "yearOpen": "2014",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Brazil South",
@@ -69,7 +72,8 @@
     "name": "brazilsouth",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2014"
+    "yearOpen": "2014",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Canada Central",
@@ -87,7 +91,8 @@
     "name": "canadacentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2016"
+    "yearOpen": "2016",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Canada East",
@@ -105,7 +110,8 @@
     "name": "canadaeast",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": "2016"
+    "yearOpen": "2016",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Central India",
@@ -123,7 +129,8 @@
     "name": "centralindia",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2015"
+    "yearOpen": "2015",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "Central US",
@@ -141,7 +148,8 @@
     "name": "centralus",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2014"
+    "yearOpen": "2014",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "East Asia",
@@ -159,7 +167,8 @@
     "name": "eastasia",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2010"
+    "yearOpen": "2010",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "East US",
@@ -177,7 +186,8 @@
     "name": "eastus",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2014"
+    "yearOpen": "2014",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "East US 2",
@@ -195,7 +205,8 @@
     "name": "eastus2",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2012"
+    "yearOpen": "2012",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "France Central",
@@ -213,7 +224,8 @@
     "name": "francecentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2018"
+    "yearOpen": "2018",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Germany West Central",
@@ -231,7 +243,8 @@
     "name": "germanywestcentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2019"
+    "yearOpen": "2019",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Israel Central",
@@ -249,7 +262,8 @@
     "name": "israelcentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2023"
+    "yearOpen": "2023",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Italy North",
@@ -267,7 +281,8 @@
     "name": "italynorth",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2023"
+    "yearOpen": "2023",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Japan East",
@@ -285,7 +300,8 @@
     "name": "japaneast",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2014"
+    "yearOpen": "2014",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Japan West",
@@ -303,7 +319,8 @@
     "name": "japanwest",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2014"
+    "yearOpen": "2014",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Korea Central",
@@ -321,7 +338,8 @@
     "name": "koreacentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2017"
+    "yearOpen": "2017",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Korea South",
@@ -339,7 +357,8 @@
     "name": "koreasouth",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": ""
+    "yearOpen": "",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Mexico Central",
@@ -357,7 +376,8 @@
     "name": "mexicocentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2024"
+    "yearOpen": "2024",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "New Zealand North",
@@ -375,7 +395,8 @@
     "name": "newzealandnorth",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2024"
+    "yearOpen": "2024",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "North Central US",
@@ -393,7 +414,8 @@
     "name": "northcentralus",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2009"
+    "yearOpen": "2009",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "North Europe",
@@ -411,7 +433,8 @@
     "name": "northeurope",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2009"
+    "yearOpen": "2009",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Norway East",
@@ -429,7 +452,8 @@
     "name": "norwayeast",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2019"
+    "yearOpen": "2019",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Poland Central",
@@ -447,7 +471,8 @@
     "name": "polandcentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2023"
+    "yearOpen": "2023",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Qatar Central",
@@ -465,7 +490,8 @@
     "name": "qatarcentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2022"
+    "yearOpen": "2022",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "South Africa North",
@@ -483,7 +509,8 @@
     "name": "southafricanorth",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2019"
+    "yearOpen": "2019",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "South Central US",
@@ -501,7 +528,8 @@
     "name": "southcentralus",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2008"
+    "yearOpen": "2008",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "South India",
@@ -519,7 +547,8 @@
     "name": "southindia",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": "2015"
+    "yearOpen": "2015",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Southeast Asia",
@@ -537,7 +566,8 @@
     "name": "southeastasia",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2010"
+    "yearOpen": "2010",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Spain Central",
@@ -555,7 +585,8 @@
     "name": "spaincentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2024"
+    "yearOpen": "2024",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Sweden Central",
@@ -573,7 +604,8 @@
     "name": "swedencentral",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2021"
+    "yearOpen": "2021",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "Switzerland North",
@@ -591,7 +623,8 @@
     "name": "switzerlandnorth",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2019"
+    "yearOpen": "2019",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "UAE North",
@@ -609,7 +642,8 @@
     "name": "uaenorth",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2019"
+    "yearOpen": "2019",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "UK South",
@@ -627,7 +661,8 @@
     "name": "uksouth",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2016"
+    "yearOpen": "2016",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "UK West",
@@ -645,7 +680,8 @@
     "name": "ukwest",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": "2016"
+    "yearOpen": "2016",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "West Central US",
@@ -663,7 +699,8 @@
     "name": "westcentralus",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": "2016"
+    "yearOpen": "2016",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "West Europe",
@@ -681,7 +718,8 @@
     "name": "westeurope",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2010"
+    "yearOpen": "2010",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "West India",
@@ -699,7 +737,8 @@
     "name": "westindia",
     "availabilityZoneCount": "0",
     "restricted": "FALSE",
-    "yearOpen": ""
+    "yearOpen": "",
+    "ActiveRegion": "false"
   },
   {
     "displayName": "West US",
@@ -717,7 +756,8 @@
     "name": "westus",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2012"
+    "yearOpen": "2012",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "West US 2",
@@ -735,7 +775,8 @@
     "name": "westus2",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2007"
+    "yearOpen": "2007",
+    "ActiveRegion": "true"
   },
   {
     "displayName": "West US 3",
@@ -753,6 +794,7 @@
     "name": "westus3",
     "availabilityZoneCount": "3",
     "restricted": "FALSE",
-    "yearOpen": "2021"
+    "yearOpen": "2021",
+    "ActiveRegion": "true"
   }
 ]
